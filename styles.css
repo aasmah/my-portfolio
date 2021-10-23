@@ -1,5 +1,5 @@
 body {
-  background: content-box radial-gradient(rgb(153, 85, 99), skyblue);
+  background: content-box radial-gradient rgb(153, 85, 99), skyblue);
 }
 
 div {
