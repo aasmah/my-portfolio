@@ -1,13 +1,10 @@
-body {
-  background: content-box radial-gradient rgb(153, 85, 99), skyblue);
-}
+
 
 div {
 width: inherit;
   border: 15px solid rgb(154, 165, 60);
   padding: 50px;
-  margin: 20px;
-  
+  margin: 20px;  
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
